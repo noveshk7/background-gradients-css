@@ -48,7 +48,7 @@ background-gradients-css
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/background-gradients-css.git
+git clone https://github.com/noveshk7/background-gradients-css.git
 cd background-gradients-css
 ```
 
@@ -80,15 +80,38 @@ npm run preview
 
 ---
 
-## 📸 Screenshots
+## 📖 Usage
 
-(Add screenshots or GIFs here to showcase the UI)
+1. Open the app in your browser.
+2. Browse or search gradients using keywords.
+3. Click a gradient to copy its CSS.
+4. Use gradients in your own designs and projects.
+
+---
+
+## 🌟 Future Enhancements
+
+* 🌓 Dark/Light mode toggle
+* 🌐 Multi-language support
+* ⭐ Ability to save favorite gradients
+* 🎨 Export gradient as image or CSS file
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
+Contributions are welcome!
+
+* Fork the repo
+* Create a feature branch
+* Submit a pull request 🚀
+
+---
+
+## 👨‍💻 Author
+
+- Developed by **Novesh Kumar Gautam**
+- GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
 
